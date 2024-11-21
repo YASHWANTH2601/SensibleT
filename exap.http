@@ -1,0 +1,8 @@
+POST  http://localhost:5000/api/transactions/
+Content-Type: application/json
+
+{
+    "amount":5435,
+    "transaction_type":"DEPOSIT",
+    "user":"sdfjhsju"
+}
